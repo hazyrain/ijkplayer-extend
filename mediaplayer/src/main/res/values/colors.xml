@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="none">#00000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="red">#FF0000</color>
+
+    <color name="transparent">#00ffffff</color>
+
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="colorPrimaryDarkTheme">#ff343a49</color>
+    <color name="colorPrimaryDarkDarkTheme">#ff2a2e3a</color>
+    <color name="colorAccentDarkTheme">#ffffffff</color>
+
+    <color name="window_background">@color/white</color>
+    <color name="window_background_dark">#ff242833</color>
+
+    <color name="md_divider_white">#10ffffff</color>
+    <color name="md_divider_black">#10000000</color>
+
+    <color name="album_default_palette_color_light">#ffe8e8e8</color>
+    <color name="album_default_palette_color_dark">#ff343a49</color>
+
+    <color name="colorSubTextWhite">#b3ffffff</color>
+    <color name="colorSubTextBlack">#86000000</color>
+
+    <color name="colorPrimaryTextWhite">#ffffffff</color>
+    <color name="colorPrimaryTextBlack">#df000000</color>
+
+    <color name="playRankingScoreBackground">#1fBDBDBD</color>
+    <color name="colorDividerBlack">#1f000000</color>
+    <color name="colorAccentReal">@color/white</color>
+    <color name="folderTint">#c85f5f5f</color>
+
+    <color name="listen_bar_n">#373D36</color>
+    <color name="listen_bar_s">#2DAC11</color>
+    <color name="ipa_bar_n">#B0AFAD</color>
+    <color name="ipa_bar_s">#58A3FD</color>
+
+
+    <!-- 夜间模式相关-->
+    <!-- 背景色-->
+    <color name="skin_background">#FFFFFE</color>
+    <color name="skin_background_night">#1D1D1F</color>
+    <!-- 文本颜色-->
+    <color name="skin_textcolor">#282828</color>
+    <color name="skin_textcolor_night">#646464</color>
+    <!-- 文本颜色灰-->
+    <color name="skin_textcolor_grey">@color/grey</color>
+    <color name="skin_textcolor_grey_night">#646464</color>
+    <!-- 文本颜色冉冉版-->
+    <color name="skin_textcolor_ranran">#4A4A4A</color>
+    <color name="skin_textcolor_ranran_night">#646464</color>
+
+    <color name="skin_special_speak_normal">#788497</color>
+    <color name="skin_special_speak_select">#4189EC</color>
+    <color name="skin_special_speak_bottom">#4788E1</color>
+    <color name="skin_special_speak_status">#3781E6</color>
+    <!-- 固定类型线条颜色-->
+    <color name="skin_linecolor">#E4E4E4</color>
+    <color name="skin_linecolor_night">#181818</color>
+    <!-- 可滚动类型线条颜色-->
+    <color name="skin_linecolor_change">#F0F1F0</color>
+    <color name="skin_linecolor_change_night">#181818</color>
+    <!-- 进度条文字颜色-->
+    <color name="skin_seekbar_text">#3DAF32</color>
+    <color name="skin_seekbar_text_night">#3B3B3B</color>
+
+    <!-- 文本颜色 不要用被选中 谢谢 那么就是普通的上方-->
+    <color name="skin_textcolor_main">#404040</color>
+    <color name="skin_textcolor_main_night">#3B3B3B</color>
+    <!-- 文本颜色 正文下方-->
+    <color name="skin_textcolor_submain">#BDBDBD</color>
+    <color name="skin_textcolor_submain_night">#3B3B3B</color>
+
+    <color name="skin_textcolor_select">#878789</color>
+
+    <color name="skin_ab_select">#FFFFFF</color>
+    <color name="skin_ab_select_night">#878789</color>
+
+    <color name="skin_ab_text_select">#808080</color>
+    <color name="skin_ab_text_select_night">#4A4A4A</color>
+
+    <color name="skin_ab_text_ab_select">#C3C3C3</color>
+    <color name="skin_ab_text_ab_select_night">#4A4A4A</color>
+
+    <!-- ab绿色指示-->
+    <color name="skin_green">#3DAF32</color>
+    <color name="skin_green_night">#2F6522</color>
+
+    <!-- ab绿色填充-->
+    <color name="skin_center_green">#4D30C50F</color>
+    <color name="skin_center_green_night">#4D2F6522</color>
+
+    <!-- 更多取消的色值-->
+    <color name="skin_cancel">#404040</color>
+    <color name="skin_cancel_night">#646464</color>
+
+    <!-- 查词笔记本的色值-->
+    <color name="skin_note_n">#43474A</color>
+    <color name="skin_note_n_night">#646464</color>
+    <color name="skin_note_s">#A6ABB0</color>
+    <color name="skin_note_s_night">#646464</color>
+
+    <!-- 深色背景-->
+    <color name="skin_back_back">@color/ranran_back</color>
+    <color name="skin_back_back_night">#1A1A1B</color>
+
+    <!-- 更多的title-->
+    <color name="skin_more_title">#E4E4E4</color>
+    <color name="skin_more_title_night">#282828</color>
+
+    <color name="skin_sb_green">#30C50F</color>
+
+    <!-- 更多页面按钮-->
+    <color name="skin_sb_checked">#4CD964</color>
+    <color name="skin_sb_checked_night">#276522</color>
+    <color name="skin_sb_button">#FFFFFE</color>
+    <color name="skin_sb_button_night">#878789</color>
+
+    <!-- 正常选择框-->
+    <color name="skin_item_title_grey">@color/grey</color>
+    <color name="skin_item_title_grey_night">#3B3B3B</color>
+
+    <!-- 更多取消的色值-->
+    <color name="skin_note">#404040</color>
+    <color name="skin_note_night">#4A4A4A</color>
+
+    <color name="skin_nce_text">#404040</color>
+    <color name="skin_nce_text_night">#878789</color>
+
+    <color name="skin_nce_select">#FFFFFE</color>
+    <color name="skin_nce_select_night">#878789</color>
+
+    <color name="skin_show">#9b9b9b</color>
+    <color name="skin_show_night">#646464</color>
+
+    <color name="skin_trans">#00ffffff</color>
+
+    <!-- 课程相关-->
+    <color name="skin_course_linecolor">#F1F1F1</color>
+    <color name="skin_course_textcolor">#434649</color>
+    <color name="skin_course_textcolor_sub">#CACACA</color>
+
+    <color name="skin_course_line_s">#2A9CF5</color>
+    <color name="skin_course_line_n">#EEEEEE</color>
+
+    <color name="skin_course_red">#F05555</color>
+    <color name="skin_course_green">#42D45C</color>
+    <color name="skin_course_normal">#282828</color>
+
+    <color name="skin_course_list_title_yellow">#F5A623</color>
+    <color name="skin_course_list_title_grey_light">#DBDADA</color>
+    <color name="skin_course_list_title_normal">#43474A</color>
+    <color name="skin_course_list_title_grey">#C9C9C9</color>
+
+    <color name="skin_vip_record_show">#80A6ABB0</color>
+    <color name="skin_vip_record_text">#43474A</color>
+
+    <color name="skin_vip_record_word_perfect">#42D45C</color>
+    <color name="skin_vip_record_word_mid">#DF9E33</color>
+    <color name="skin_vip_record_word_bad">#F05555</color>
+
+
+    <color name="bg_video_view">#80000000</color>
+
+    <color name="seek_background">#809e9e9e</color>
+    <color name="seek_progress">#cc3daf32</color>
+    <color name="seek_secondary_progress">#8890EE90</color>
+    <color name="seek_ball">#ffffffff</color>
+
+    <color name="media_quality_selected">#ccec407a</color>
+    <color name="video_skip">#e91e63</color>
+
+    <color name="text_hint">#55ffffff</color>
+    <color name="text_content">#ffffff</color>
+
+    <color name="background_gray">#ffa5a5a5</color>
+    <color name="background_gray_light">#ffbababa</color>
+
+    <color name="recover_screen_text">#f06292</color>
+
+    <color name="vediogreen">#3daf32</color>
+    <color name="ted">#181616</color>
+    <color name="bbc">#CE0000</color>
+    <color name="voa">#2B427E</color>
+
+    <color name="compare_white_">#ffffff</color>
+    <color name="compare_dark">#bfb6a4</color>
+    <color name="ipa_blue">#58A3FD</color>
+    <color name="ipa_back">#F7F5F1</color>
+
+    <color name="main_blue">#58a3fd</color>
+    <color name="main_white">#ffffff</color>
+    <color name="main_origin">#404040</color>
+
+    <color name="blue">#3daf32</color>
+    <color name="blue1">#58a3fd</color>
+    <color name="blue_light">#90C4FB</color>
+    <color name="grey">#808080</color>
+    <color name="line">#efefef</color>
+
+    <color name="lightgreen">#9be38c</color>
+
+    <color name="order_nomal">#ffffff</color>
+    <color name="order_grey">#f2f2f2</color>
+
+    <color name="listening_chinese">#bdbdbd</color>
+
+    <color name="main_study_line">#dddddd</color>
+
+    <color name="ranran_line">#e0e2e0</color>
+    <color name="ranran_line_new">#F0F1F0</color>
+    <color name="ranran_textcolor">#4a4a4a</color>
+    <color name="ranran_back">#fafafa</color>
+    <color name="ranran_textcolor_light">#e4e4e4</color>
+    <color name="ranran_textcolor_grey">#c3c3c3</color>
+
+    <color name="ranran_main_origin">#282828</color>
+    <color name="ranran_main_grey">#797979</color>
+
+    <color name="ranran_yellow">#F9CE33</color>
+    <color name="ranran_yellow_text">#D0AA18</color>
+    <color name="ranran_yellow_under">#F4D048</color>
+
+    <color name="ranran_blue">#30c50f</color>
+    <color name="ranran_orange">#E97938</color>
+    <color name="ranran_f26024">#f26024</color>
+    <color name="ranran_toast">#E671D271</color>
+
+    <color name="ranran_blue_history_back">#E5F4E3</color>
+    <color name="ranran_blue_history_text">#64A755</color>
+
+    <color name="ranran_programe_item_grey">#C6C6C6</color>
+    <color name="ranran_aaaaaa">#aaaaaa</color>
+
+    <color name="ranran_white_40">#66FFFFFF</color>
+
+    <color name="ranran_5b5b5b">#5b5b5b</color>
+    <color name="ranran_9b9b9b">#9b9b9b</color>
+    <color name="ranran_f0f1f0">#f0f1f0</color>
+
+    <color name="ranran_item_has_read">#4DEEEEEE</color>
+    <color name="ranran_item_progress">#1930C50F</color>
+
+    <color name="test">#455A64</color>
+    <color name="vedio_green">#42BA28</color>
+
+    <color name="color_desktop_white">#FFFFFF</color>
+    <color name="color_desktop_dark">#323831</color>
+    <color name="color_desktop_violet">#A851F0</color>
+    <color name="color_desktop_blue">#3FC5F0</color>
+    <color name="color_desktop_green">#44E496</color>
+    <color name="color_desktop_orange">#F6B631</color>
+    <color name="color_desktop_pink">#FE0072</color>
+
+    <color name="color_desktop_back_normal">#7F000000</color>
+    <color name="color_desktop_back_dismiss">#00ffffff</color>
+
+    <color name="color_media_dark">#4A4F48</color>
+    <color name="color_media_green">#30C50F</color>
+    <color name="color_media_white">#FFFFFF</color>
+    <color name="color_media_grey">#7C857A</color>
+</resources>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

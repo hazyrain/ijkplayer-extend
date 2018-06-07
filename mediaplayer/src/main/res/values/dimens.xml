@@ -1,0 +1,20 @@
+<resources>
+
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+
+    <dimen name="control_bar_height">46dp</dimen>
+    <dimen name="danmaku_input_options_height">48dp</dimen>
+    <dimen name="danmaku_input_options_color_radio_btn_width">32.0dip</dimen>
+    <dimen name="danmaku_input_options_color_radio_btn_height">25.0dip</dimen>
+    <dimen name="danmaku_input_options_color_radio_btn_margin">5.0dip</dimen>
+    <dimen name="danmaku_input_options_color_radio_btn_size">42.0dip</dimen>
+
+    <dimen name="settings_btn_width">44dp</dimen>
+    <dimen name="aspect_btn_height">20dp</dimen>
+    <dimen name="aspect_btn_size">30dp</dimen>
+    <dimen name="nav_header_vertical_spacing">8dp</dimen>
+    <dimen name="nav_header_height">176dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+</resources>
